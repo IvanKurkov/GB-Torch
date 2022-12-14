@@ -12,3 +12,11 @@ Lesson3/data/
 Lesson4/data/
 
 Lesson4/.ipynb_checkpoints/
+
+Lesson5_segmentation(good_module)/img/
+
+Lesson5_segmentation(good_module)/models
+
+Lesson5_segmentation(good_module)/Unet-resnet34
+
+Lesson5_segmentation(good_module)/Unet-resnet50
