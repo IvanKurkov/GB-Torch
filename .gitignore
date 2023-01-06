@@ -22,3 +22,11 @@ Lesson5_segmentation(good_module)/Unet-resnet34
 Lesson5_segmentation(good_module)/Unet-resnet50
 
 Lesson6_NLP_classif/review.xls
+
+Lesson10_emotion_detector/Emotion_recognition/
+
+Lesson10_emotion_detector/img/
+
+Lesson10_emotion_detector/leapGestRecog/
+
+Lesson10_emotion_detector/.ipynb_checkpoints/
